@@ -1,2 +1,2 @@
 # Review-Scrapper
-In This Section i have build the review scrapper to srapp almost every products review
+In This Section i have build the review scrapper to scrap almost every products review
